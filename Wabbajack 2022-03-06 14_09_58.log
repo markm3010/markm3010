@@ -1,0 +1,22 @@
+0.51 - Wabbajack Build - 147bd70e9d7def3b412970763e3b0754c6cfb5de
+0.52 - Running in C:\Users\Boss\Documents\wabba\2.5.3.9
+0.58 - Detected Windows Version: 10.0.19044.0
+0.58 - System settings - (32GB RAM) (5GB Page), Display: 1920 x 1080 (4GB VRAM - VideoMemorySizeMb=10240)
+0.58 - Pagefile below recommended! Consider increasing to 20000MB. A suboptimal pagefile can cause crashes and poor in-game performance.
+0.6 - Getting new Wabbajack version list
+0.71 - Steam: Found no Regex matches in Steam Config at c:/steam\config\config.vdf
+0.72 - Steam: Found game Steamworks Common Redistributables (228980) at "C:\Steam\steamapps\common\Steamworks Shared"
+0.72 - Steam: Found game Wallpaper Engine (431960) at "C:\Steam\steamapps\common\wallpaper_engine"
+0.72 - Steam: Found game The Elder Scrolls V: Skyrim Special Edition (489830) at "C:\Steam\steamapps\common\Skyrim Special Edition"
+0.72 - Steam: Found game Steamworks Common Redistributables (228980) at "c:/steam\steamapps\common\Steamworks Shared"
+0.72 - Steam: Found game Wallpaper Engine (431960) at "c:/steam\steamapps\common\wallpaper_engine"
+0.72 - Steam: Found game The Elder Scrolls V: Skyrim Special Edition (489830) at "c:/steam\steamapps\common\Skyrim Special Edition"
+0.73 - GOG: GOG was not found in the registry
+0.73 - BethNet: Unable to open Registry Keys SOFTWARE\WOW6432Node\Bethesda Softworks\Bethesda.net and SOFTWARE\WOW6432Node\Bethesda Softworks\Bethesda.net
+0.73 - EGS: Unable to open Registry Key SOFTWARE\Epic Games\EOS
+0.73 - Origin: LocalContent directory at C:\ProgramData\Origin\LocalContent does not exist
+1.48 - Wabbajack Version: 2.5.3.9
+1.69 - Build server is alive
+1.7 - File hash check (-42) 28a7869ee3a83290f9328a0c100a08b8550088ec8c19aa1a7c5358ba52af3100
+1.76 - Build server is alive
+1.76 - File hash check (-42) 28a7869ee3a83290f9328a0c100a08b8550088ec8c19aa1a7c5358ba52af3100

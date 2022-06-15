@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mark
-- 👀 I’m interested in side hustles, Software QA, Python, and scripting.
-- 🌱 I’m currently learning WordPress, practicing Python, and looking at AWS next.
-- 💞️ I’m looking to collaborate on job opportunities!  ;-)
+- 👀 I’m interested in Software QA, System Administration, and Python.
 - 📫 How to reach me? markm3010 at gmail
 
 <!---
